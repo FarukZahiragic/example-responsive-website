@@ -1,0 +1,28 @@
+body {
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+
+#title {
+	position: relative;
+	margin: 1em;
+}
+
+#header-nav {
+	background-color: #999999;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+#text {
+	height: 1000px;
+	background-color: #999999;
+	border: 2px solid black;
+	padding: 20px;
+	text-align: center;
+}
+
+#nav-list a {
+	text-align: center;
+}
